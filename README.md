@@ -15,8 +15,7 @@ HTML5: Semantic structure for the webpage.
 CSS3: Styling for a visually appealing and responsive design.
 Responsive Design: Ensures compatibility across various devices and screen sizes.
 How to Use
-Clone this repository:
-git clone https://github.com/your-username/emertxe-webpage.git
+
 Navigate to the project folder:
 cd emertxe-webpage
 Open the index.html file in your favorite browser.
